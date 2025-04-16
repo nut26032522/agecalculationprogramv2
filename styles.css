@@ -1,23 +1,23 @@
 /* ตัวแปรสี - กำหนดสีหลักของแอพ */
 :root {
-    --bg-color: #f2f2f2;
-    --card-bg: #ffffff;
-    --border-color: #e0e0e0;
-    --primary-color: #007AFF;
-    --text-color: #333333;
-    --text-secondary: #666666;
+    --bg-color: #f065dd;
+    --card-bg: #339679;
+    --border-color:#d950c7;
+    --primary-color: #007aff;
+    --text-color: #575757;
+    --text-secondary: #7d7d7d;
     
     /* สีพาสเทลสำหรับขอบรุ้ง */
-    --pastel-blue: #abd8f2;
-    --pastel-green: #c3e8ca;
-    --pastel-pink: #f9c9d7;
-    --pastel-yellow: #fff2bd;
-    --pastel-purple: #dfd0f5;
-    --pastel-orange: #ffd8b5;
+    --pastel-blue: #47b5f5;
+    --pastel-green: #a1ed9a;
+    --pastel-pink: #f593ba;
+    --pastel-yellow:#fae58e;
+    --pastel-purple: #c895f5;
+    --pastel-orange: #ffc087;
 
     /* สีสำหรับสวิตช์โหมด */
-    --toggle-bg: #f0f0f0;
-    --toggle-color-general: #007AFF;
+    --toggle-bg: #e8e8e8;
+    --toggle-color-general: #007aff;
     --toggle-color-government: #4cd964;
 }
 
